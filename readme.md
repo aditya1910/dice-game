@@ -1,6 +1,6 @@
 ## Description
 
-A dice Game where users can roll a given dice to reach to a given winning point the user who reaches the winning point, as soon as the player reaches the winning point the ranks are assigned accordingly
+A dice Game where users can roll a given dice to reach to a given winning point, as soon as the player reaches the winning point the ranks are assigned accordingly
 
 ## Rules of the game
 
@@ -15,5 +15,5 @@ A dice Game where users can roll a given dice to reach to a given winning point 
 ## common terms
 
 - currentPlayer: The player who rolled the dice
-- nextPlayer: The player who will play the next turn
+- nextPlayer: The player who will play in the next turn
 - \_id : Is the gameId
